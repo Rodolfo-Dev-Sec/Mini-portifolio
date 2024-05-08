@@ -1,0 +1,42 @@
+* {
+    border: 0;
+}
+html {
+    background-color: black;
+    color: white;
+}
+
+#painel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+
+}
+
+#eu {
+    height: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+
+    
+}
+
+#imagem {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#info {
+    text-align: justify;
+}
